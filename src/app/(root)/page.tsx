@@ -6,7 +6,7 @@ export default function Home() {
           manuel tati
         </h1>
         <span className="self-end text-sm text-white font-semibold">
-          Apenas seja criativo nas suas imaginações
+          Apenas se inspirando
         </span>
       </div>
     </div>
